@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Billy
 
-<!--
-**billysistian/billysistian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer from Indonesia 🇮🇩
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Laravel
+- React
+- Next.js
+- PostgreSQL
+- MySQL
+- Supabase
+- MongoDB
+- JavaScript
+- TypeScript
+- Tailwind CSS
+- Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- ERP System
+- HRIS
+- Patient Registration System
+- Attendance App
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+
+## 🌐 Portfolio
+https://billysistian-portfolio.vercel.app
+
+## 📫 Contact
+- Email: billy.sistianputra@gmail.com
+- LinkedIn: linkedin.com/in/billysistian
