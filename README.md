@@ -25,9 +25,10 @@ Fullstack Developer from Indonesia 🇮🇩
 
 ## 🌐 Portfolio
 
-https://billysistian-portfolio.vercel.app
+Check out my [portfolio](https://billysistian-portfolio.vercel.app).
 
-## 📫 Contact
-
-* Email: [billy.sistianputra@gmail.com](mailto:billy.sistianputra@gmail.com)
-* LinkedIn: [linkedin.com/in/billysistian](https://www.linkedin.com/in/billy-sistian-putra/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/billysistian/billysistian/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/billysistian/billysistian/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/billysistian/billysistian/output/pacman-contribution-graph.svg">
+</picture>
